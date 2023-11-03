@@ -11,6 +11,7 @@ while True:
         user_num = int(user_num)
         left = int(left)
         right = int(right)
+
         if left <= user_num <= right:
             bool_var = True
         else:
